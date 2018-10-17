@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|H:\lxy\比特作业\DAY06\写一个函数返回参数二进制中 1 的个数\|
