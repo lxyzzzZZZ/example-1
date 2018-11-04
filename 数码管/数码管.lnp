@@ -1,0 +1,8 @@
+"STARTUP.obj",
+"ledscan.obj",
+"delay.obj",
+"init.obj",
+"app.obj",
+"main.obj" 
+TO "ÊýÂë¹Ü" 
+CODE( 0X0000-0X0FFF )

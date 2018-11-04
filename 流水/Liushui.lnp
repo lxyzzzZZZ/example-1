@@ -1,0 +1,6 @@
+"STARTUP.obj",
+"app.obj",
+"delay.obj",
+"main.obj" 
+TO "Liushui" 
+CODE( 0X0000-0X0FFF )
