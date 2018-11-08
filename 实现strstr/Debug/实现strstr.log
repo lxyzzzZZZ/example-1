@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018/11/8 21:36:22。
+     1>项目“H:\lxy\比特作业\DAY16\实现strstr\实现strstr.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>h:\lxy\比特作业\day16\实现strstr\test.c(8): warning C4047: “==”:“int”与“void *”的间接级别不同
+     1>h:\lxy\比特作业\day16\实现strstr\test.c(15): warning C4090: “=”: 不同的“const”限定符
+     1>h:\lxy\比特作业\day16\实现strstr\test.c(35): warning C4013: “system”未定义；假设外部返回 int
+     1>h:\lxy\比特作业\day16\实现strstr\test.c(27): warning C4715: “My_Strstr”: 不是所有的控件路径都返回值
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\lxy\比特作业\DAY16\实现strstr\Debug\实现strstr.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\lxy\比特作业\DAY16\实现strstr\Debug\实现strstr.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\lxy\比特作业\DAY16\实现strstr\Debug\实现strstr.lib" /MACHINE:X86 Debug\test.obj
+         实现strstr.vcxproj -> H:\lxy\比特作业\DAY16\实现strstr\Debug\实现strstr.exe
+     1>已完成生成项目“H:\lxy\比特作业\DAY16\实现strstr\实现strstr.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.43
